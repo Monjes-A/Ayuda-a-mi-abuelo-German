@@ -1573,15 +1573,7 @@
 		line-height: 1.75em;
 	}
 
-	a {
-		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
-		color: #49bf9d;
-		text-decoration: none;
-	}
+	
 
 		a:hover {
 			border-bottom-color: transparent;
@@ -1719,6 +1711,7 @@
 		color: #b2b2b2;
 		position: relative;
 		margin: 0 0 1.5em 0;
+		text-align: center;
 	}
 
 	header h2 + p {
