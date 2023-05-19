@@ -1851,6 +1851,10 @@
 					width: 1em;
 				}
 
+		.medical{ 
+			list-style:inside;
+		}
+ 
 
 
 /* Button */
@@ -1950,9 +1954,9 @@
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em 0 0;
+		padding: 4em 1em 4em 1em;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 		top: 0;
 		width: 35%;
 	}
@@ -1981,7 +1985,7 @@
 	#footer {
 		bottom: 0;
 		left: 0;
-		padding: 0 4em 6em 0;
+		padding: 0 2.5em 1em 0;
 		position: fixed;
 		text-align: right;
 		width: 35%;
