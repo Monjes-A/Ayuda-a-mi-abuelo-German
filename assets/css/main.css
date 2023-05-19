@@ -2080,6 +2080,9 @@
 
 		.image.avatar {
 			border-radius: 100%;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 			.image.avatar:before {
@@ -2088,7 +2091,9 @@
 
 			.image.avatar img {
 				border-radius: 100%;
-				width: 100%;
+				width: 150%;
+				margin: auto;
+				
 			}
 
 /* List */
