@@ -1797,8 +1797,9 @@
 
 			.image.avatar img {
 				border-radius: 100%;
-				width: 150%;
-				margin: auto;
+				width: 140px;
+				height: 140px;
+				margin: auto auto 15px;
 				
 			}
 
@@ -1978,9 +1979,6 @@
 			margin: 0;
 		}
 
-		#header .image.avatar {
-			width: 6.25em;
-		}
 
 /* Footer */
 
