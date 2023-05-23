@@ -1,5 +1,5 @@
 // Porcentaje actual de la recaudación
-var currentAmount = 30; // Actualiza este valor según el progreso real
+var currentAmount = 170; // Actualiza este valor según el progreso real
 
 // Monto objetivo
 var targetAmount = 8000;
